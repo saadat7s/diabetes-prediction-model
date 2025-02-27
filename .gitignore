@@ -3,6 +3,15 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Node modules
+frontend/node_modules/
+backend/node_modules/
+
+# Other node related directories
+frontend/package-lock.json
+backend/package-lock.json
+
+
 # C extensions
 *.so
 
